@@ -1,4 +1,4 @@
-# 📘 My Web Development Learning Journey with Harkirat Singh
+# 📘 My Web Development and dev Learning Journey with Cohort 3.0 introduced by Harkirat Singh
 
 This repository documents my journey through the Web Development course by **Harkirat Singh**, which is structured into two parts: **Cohort** and **DevCourse**.
 
