@@ -1,32 +1,26 @@
-# 📘 My Web Development and dev Learning Journey with Cohort 3.0 introduced by Harkirat Singh
+# 📘 My Web Development & DevOps Journey — Cohort 3.0 by Harkirat Singh
 
-This repository documents my journey through the Web Development course by **Harkirat Singh**, which is structured into two parts: **Cohort** and **DevCourse**.
+This repository documents my learning journey through **Cohort 3.0** a comprehensive Web Development and DevOps course by [Harkirat Singh](https://x.com/kirat_tw).
 
 ## 👨‍🏫 About the Course
 
-The course is divided into two main sections:
+**Cohort 3.0** is a structured and hands-on learning experience designed to help aspiring developers master the fundamentals and real-world practices of:
+- 🌐 **Web Development**
+- ⚙️ **DevOps**
 
-### 🧠 Cohort
-The Cohort part is designed to build a habit of daily coding and consistency. It emphasizes:
-- Writing code every day
-- Building small-to-medium scale projects
-- Developing a strong developer mindset
-- Learning by doing rather than passively consuming content
+The course emphasizes:
+- Building consistency through daily coding
+- Gaining real-world experience by building and deploying projects
+- Understanding how full-stack systems work in production
+- Learning both development and operational sides of modern web apps
 
-### 📚 DevCourse
-The DevCourse is a more in-depth and conceptual part of the journey. It focuses on:
-- Understanding how systems work under the hood
-- Writing clean, maintainable code
-- Thinking through backend and frontend architecture
-- Preparing for real-world development environments
+## 📅 Why This Repository Exists
 
-## 📅 Why This Repo Exists
-
-This repository serves as:
-- A log of my progress through the course
-- A place to store my notes and insights
-- A reflection of my commitment to learn consistently and deeply
+This repo is my public commitment to learning and growing through this course. It will serve as:
+- 🧠 A place to share notes and concepts
+- 🧪 A collection of my projects, experiments, and assignments
+- 📈 A log of my progress throughout the journey
 
 ---
 
-> All progress, notes, and relevant work will be documented here. I'm focused on completing the course with full dedication and discipline.
+> This is just the beginning. I’ll be regularly updating this repo as I progress through the course, learning Web Development and DevOps the right way — with consistency, curiosity, and discipline.
