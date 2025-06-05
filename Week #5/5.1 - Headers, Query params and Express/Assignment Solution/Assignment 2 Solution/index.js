@@ -1,9 +1,6 @@
-/*
-Assignment #2 - Create a middleware function that logs each incoming request’s HTTP method, URL, and timestamp to the console.
-*/
 
 
-// Import the express module and store it in a variable called express
+
 const express = require('express');
 
 // Create an express application instance and store it in a variable called app
