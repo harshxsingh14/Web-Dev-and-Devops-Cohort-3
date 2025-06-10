@@ -16,7 +16,7 @@ app.post("/signup", function (req, res) {
     const password = req.body.password;
 
     if (users.find((user) => user.username === username)) {
-\        return res.json({
+       return res.json({
             message: "You are already signed up!",
         });
     }
@@ -63,7 +63,7 @@ app.post("/signin", function (req, res) {
 });
 
 function auth(req, res, next) {
-\    const token = req.headers.authorization;
+    const token = req.headers.authorization;
 
     if (!token) {
         return res.json({
