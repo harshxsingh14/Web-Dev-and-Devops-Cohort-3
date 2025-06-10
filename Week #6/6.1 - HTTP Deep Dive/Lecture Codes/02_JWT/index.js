@@ -5,7 +5,7 @@ const app = express();
 app.use(express.json());
 
 const users = [];
-const JWT_SECRET = "ilove100xdevsliveclasses";
+const JWT_SECRET = "100xdev";
 
 app.post("/signup", function (req, res) {
     const username = req.body.username;
