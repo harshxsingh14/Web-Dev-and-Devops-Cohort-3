@@ -1,9 +1,9 @@
-function greet(firstName: string): void {
+function greetperson(firstName: string): void {
 
 
     console.log(`Hello, ${firstName}!`);
 }
-greet('Harsh');
+greetperson('Harsh');
 
 
 let greetUser = (firstName: string): void => {
