@@ -1,7 +1,7 @@
-function sum(a: number, b: number): number {
+function sumofnum(a: number, b: number): number {
     return a + b;
 }
 
-let a: number = sum(10, 20);
+let b: number = sumofnum(10, 20);
 
-console.log(a); 
+console.log(b);
