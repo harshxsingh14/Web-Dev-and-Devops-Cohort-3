@@ -5,7 +5,7 @@ interface People {
 }
 
 let person: People = {
-    name: "Harsh,
+    name: "Harsh",
     age: 21,
     greet: () => { 
         return "Hi " + person.name;
