@@ -14,14 +14,16 @@ function App() {
     socket.send(message)
   }
 
-  useEffect(() => {
-    const ws = new WebSocket("ws://localhost:8080");
+  useEffect(() =>{
+    const ws = new WebSocket("ws://localhost:1010");
     setSocket(ws);
 
     ws.onmessage = (ev) => {
       alert(ev.data);
     }
   }, []);
+
+
 
   return (
     <div>
