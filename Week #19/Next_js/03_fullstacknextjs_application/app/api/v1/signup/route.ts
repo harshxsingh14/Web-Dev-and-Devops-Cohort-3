@@ -45,6 +45,5 @@ export async function GET() {
     // Retrieving the first user from the database
     const user = await prismaClient.user.findFirst({});
     
-    // Returning the user's name and email in the response (Assuming email is stored in the username field)
     return Response.json({ name: user?.username, email: user?.username });
 }
