@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍🏫 About the Course
+## About the Course
 
 **Cohort 3.0** is a structured and hands-on course by [Harkirat Singh](https://twitter.com/harkiratBehl), focused on:
 
