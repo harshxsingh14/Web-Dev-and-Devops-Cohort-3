@@ -10,8 +10,8 @@
 
 **Cohort 3.0** is a structured and hands-on course by [Harkirat Singh](https://twitter.com/harkiratBehl), focused on:
 
-- 🌐 **Web Development**
-- ⚙️ **DevOps**
+-  **Web Development**
+-  **DevOps**
 
 It emphasizes:
 - 📆 Daily coding & consistency
