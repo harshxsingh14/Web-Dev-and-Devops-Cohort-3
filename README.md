@@ -21,7 +21,7 @@ It emphasizes:
 
 ---
 
-## 🗂️ What You'll Find Here
+##  What You'll Find Here
 
 This repository is my public commitment to learning and growing. It includes:
 
