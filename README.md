@@ -25,9 +25,9 @@ It emphasizes:
 
 This repository is my public commitment to learning and growing. It includes:
 
-- 🧠 Notes on important concepts
-- 🧪 Mini-projects and assignments
-- 🛠️ DevOps experiments and deployment practices
+-  Notes on important concepts
+-  Mini-projects and assignments
+-  DevOps experiments and deployment practices
 
 ---
 
