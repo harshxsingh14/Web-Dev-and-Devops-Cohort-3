@@ -43,7 +43,7 @@ _(...and more as I progress)_
 
 ---
 
-## 🙌 Let's Connect!
+##  Let's Connect!
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harsh._.singh04/)
 [![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Harsh_Singh_14)
