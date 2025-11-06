@@ -51,4 +51,4 @@ _(...and more as I progress)_
 
 ---
 
-> 🔥 This is just the beginning — I’ll be updating this regularly with new learnings and projects!
+> This is just the beginning — I’ll be updating this regularly with new learnings and projects!
