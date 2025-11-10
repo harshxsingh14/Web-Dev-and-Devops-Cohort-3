@@ -15,7 +15,7 @@
 
 It emphasizes:
 - Daily coding & consistency
-- 🧱 Building and deploying real-world projects
+- Building and deploying real-world projects
 - 🧠 Deep understanding of how full-stack systems work
 - 🚀 Exposure to both development and operations side of modern applications
 
